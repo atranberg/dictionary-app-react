@@ -8,7 +8,6 @@ function App() {
         <h1>DICTIONARY</h1>
         <Dictionary />
       </div>
-      >
     </div>
   );
 }
