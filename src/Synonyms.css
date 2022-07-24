@@ -9,7 +9,9 @@
 
 .Synonyms li {
   display: inline-block;
-  padding-right: 15px;
-  font-size: 15px;
+  padding: 5px 15px;
+  font-size: 13px;
   text-align: left;
+  color: #3b5d50;
+  background-color: #d9d9d9;
 }
