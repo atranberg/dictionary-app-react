@@ -1,0 +1,15 @@
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.ConnectionLinks {
+  text-align: center;
+}
+.ConnectIcon {
+  color: black;
+  font-size: 20px;
+  margin-right: 10px;
+}
